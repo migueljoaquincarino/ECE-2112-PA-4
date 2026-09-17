@@ -83,3 +83,8 @@ plt.text(-8,-10, 'The Hometown with the highest mean average of the the three is
 plt.show()
 ```
 ## Version History
+September 17, 2026 - Initial Commit
+
+
+September 17, 2026 - Finalized Readme and Code
+
